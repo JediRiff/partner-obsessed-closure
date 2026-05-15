@@ -1,6 +1,6 @@
 # Capturing Closure Insights with Cowork
 
-A short guide for capturing closure insights from a finished engagement into the shared database via Cowork and Teams Workflows.
+A short guide for capturing closure insights from a finished engagement via Cowork and Teams Workflows
 
 ## The How: A Five-Step Flow
 
