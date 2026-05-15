@@ -25,7 +25,7 @@ Small habits that make the closure Workflow *actually work*:
 
 ### Prompt
 
-I just finished a partner engagement with **[Partner name]** on **[Project/task name]**, and need to complete the Partner Engagement Summary Closure Workflow in Teams (screenshot attached).
+I just finished a partner engagement with **[Partner name in screenshot]** on **[Project/task name in screenshot]**, and need to complete the Partner Engagement Summary Closure Workflow in Teams (screenshot attached).
 
 **Context** (use in this priority order):
 1. **[Paste notes/TTA assessment write-up here, OR point to a doc e.g., "my OneDrive doc titled X"]**
