@@ -18,8 +18,8 @@ From task completion to database entry:
 
 Small habits that make the closure Workflow *actually work*:
 
-- **Always Record (or take notes)** — Cowork is only as good as the transcript. If you can't record, take detailed notes
--  **Keep Prompts Concise** — Two to three sentences is enough. Tell Cowork to pull from email, Teams chats, and the meeting transcript — then let it do the rest
+- **Always record (or take notes)** — Cowork is only as good as the transcript. If you can't record, try to take detailed notes
+-  **Keep prompts concise besides the master prompt** — Two to three sentences is enough. Tell Cowork to pull from email, Teams chats, and the meeting transcripts — then let it do the rest
 
 ## Example Master Prompt for PSAs
 
