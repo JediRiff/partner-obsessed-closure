@@ -28,11 +28,11 @@ Small habits that make the closure Workflow *actually work*:
 I just finished a partner engagement with **[Partner name in screenshot]** on **[Project/task name in screenshot]**, and need to complete the Partner Engagement Summary Closure Workflow in Teams (screenshot attached).
 
 **Context** (use in this priority order):
-1. **[Paste notes/TTA assessment write-up here, OR point to a doc e.g., "my OneDrive doc titled X"]**
-2. Relevant Teams chats or channels about this partner/topic
-3. Outlook emails (internal + with the partner), including meeting acceptances and attendee names
-4. Meeting transcripts or recordings
-5. SharePoint/OneDrive files referenced in any of the above
+1. Relevant Teams chats or channels about this partner/topic
+2. Outlook emails (internal + with the partner), including meeting acceptances and attendee names
+3. Meeting transcripts or recordings
+4. SharePoint/OneDrive files referenced in any of the above
+5. **Paste notes/TTA assessment write-up here, OR point to a doc e.g., "my OneDrive doc titled X"** **if necessary*
 
 If you can't access a source, say so explicitly — do *not* fabricate names, dates, outcomes, or next steps. Use `[placeholder]` for anything you can't verify (e.g., `[Add XYZ PSA collaborators]`)
 
@@ -45,9 +45,9 @@ If you can't access a source, say so explicitly — do *not* fabricate names, da
 3. **Partner and/or competitive insights** — What did the partner share that's non-obvious — tradeoffs they're weighing, competitive positioning, gaps vs. Microsoft's roadmap, or how they're differentiating? Find tradeoffs/gaps honestly; they're more valuable to the us than generic praise.
 
 **Ground rules:**
-- 1–2 sentences per answer, no more. Semicolons are acceptable.
-- Plain prose — no headers, no markdown, no emojis. The output goes into a Teams form text box.
-- Stay under 3000 characters per answer (aka the Workflow's hard cap).
-- Resolve relative references ("last week," "the meeting") to absolute dates from the source context.
-- Before answering, ask clarifying questions for missing sources, ambiguous collaborator names, unclear scope, or which engagement to focus on if the partner has multiple.
-- After drafting, show the 3 answers side-by-side so a user can copy/paste them into the Workflow.
+- 1–2 sentences per answer, no more. Semicolons are acceptable
+- Plain prose — no headers, no markdown, no emojis. The output goes into a Teams form text box
+- Stay under 3000 characters per answer (aka the Workflow's hard cap)
+- Resolve relative references ("last week," "the meeting") to absolute dates from the source context
+- Before answering, ask clarifying questions for missing sources, ambiguous collaborator names, unclear scope, or which engagement to focus on if the partner has multiple
+- After drafting, show the 3 answers side-by-side so a user can copy/paste them into the Workflow
